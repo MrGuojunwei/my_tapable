@@ -1,0 +1,22 @@
+{
+  "name": "my_tapable",
+  "version": "1.0.0",
+  "description": "my_tapable",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MrGuojunwei/my_tapable.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MrGuojunwei/my_tapable/issues"
+  },
+  "homepage": "https://github.com/MrGuojunwei/my_tapable#readme",
+  "devDependencies": {
+    "tapable": "^1.1.3"
+  }
+}
