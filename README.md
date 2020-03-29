@@ -1,3 +1,5 @@
 # my_tapable
 my_tapable
 自己实现一个tapable
+实现了tapable中的SyncHook类、SyncBailHook类、SyncWaterfallHook类、SyncLoopHook类等同步类
+也实现了AsyncParallelHook类、AsyncSeriesHook类、AsyncSeriesWaterfallHook类等异步类
